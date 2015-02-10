@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO_NAME = $1
+REPO_NAME=$1
 
 mkdir $REPO_NAME;
 mkdir $REPO_NAME/tests;
